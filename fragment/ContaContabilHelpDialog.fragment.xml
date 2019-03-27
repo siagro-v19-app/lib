@@ -12,6 +12,6 @@
 			iconDensityAware="false"
 			iconInset="false"
 			title="{Descricao}"
-			description="{Id}" />
+			description="{Codigo}" />
 	</SelectDialog>
 </core:FragmentDefinition>
